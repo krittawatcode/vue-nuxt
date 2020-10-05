@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "D:\\\\Krittawat\\\\Work\\\\uRecieve\\\\NUXT\\\\nuxt-test\\\\pages\\\\fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_c57eb514"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Krittawat\\\\Work\\\\uRecieve\\\\NUXT\\\\nuxt-test\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fbaab8ee"
+  }
+]
