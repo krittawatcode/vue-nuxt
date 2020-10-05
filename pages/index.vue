@@ -1,9 +1,18 @@
 <template>
-    <main>
-    <h1>Home page</h1>
-    <NuxtLink to="/about">
-      About (internal link that belongs to the Nuxt App)
-    </NuxtLink>
-    <a href="https://nuxtjs.org">External Link to another page</a>
-  </main>
+  <h1 class="red">Hello World</h1>
 </template>
+
+<script>
+  export default {
+    head() {
+      // Set Meta Tags for this Page
+    }
+    // ...
+  }
+</script>
+
+<style>
+  .red {
+    color: red;
+  }
+</style>

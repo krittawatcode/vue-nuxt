@@ -7,6 +7,13 @@
     "_name": "_c57eb514"
   },
   {
+    "name": "posts",
+    "path": "/posts",
+    "component": "D:\\\\Krittawat\\\\Work\\\\uRecieve\\\\NUXT\\\\nuxt-test\\\\pages\\\\posts.vue",
+    "chunkName": "pages/posts",
+    "_name": "_2aba8e0a"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "D:\\\\Krittawat\\\\Work\\\\uRecieve\\\\NUXT\\\\nuxt-test\\\\pages\\\\index.vue",
